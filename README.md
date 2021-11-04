@@ -11,7 +11,7 @@ PSEUDOCODE:
 
     To the variable choice we assign an INPUT (Which system of measurement would you like to use? Type METRIC (kg & m) for the metric system or IMPERIAL (lb & foot)     for the imperial system and press ENTER.)
 
-Imperial system: 
+    Imperial system: 
     IF choice is equal to ‘imperial’ THEN
         ask for an INPUT (enter your weight in pounds) and assign it to variable imperial_weight
         ask for an INPUT (enter your height in inches) and assign it to variable imperial_height
@@ -33,7 +33,7 @@ Imperial system:
     In any other case
         PRINT (you are normal)
     
-Metric system:
+    Metric system:
     IF choice is equal to ‘metric’ THEN
         ask for an INPUT (enter your weight in kilograms) and assign it to variable metric_weight
         ask for an INPUT (enter your height in meters) and assign it to variable metric_height
