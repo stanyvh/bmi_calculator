@@ -1,7 +1,7 @@
 # bmi_calculator
 Software development 1 - Coursework 1 - Stany Vanhemelrijck
 
-This program was created in Oktober 2021 as my first coursework for my Software and Development class. 
+This program is a jupyter notebook file and was created in Oktober 2021 as my first coursework for my Software and Development class. 
 The program gives a choice between the metric and imperial measurement systems. After that, it asks for two inputs, one height and another weight. It then asks for confirmation from the user that the correct input is given. It then returns the BMI value and category determined by the WHO.
 
 
